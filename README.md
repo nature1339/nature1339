@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nature1339
 - 👀 I’m interested in AI related anything such as data software engineer.
 - 🌱 I’m currently learning python and try to enter national support program during 6 months and have been waiting the entrance permission.
-- 💞️ I’m looking to collaborate on AI company.
+- 💞️ I’m looking to collaborate with AI company.
 - 📫 How to reach me is email to me nature1339@gmail.com 
   Thanks.
 
